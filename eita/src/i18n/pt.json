@@ -37,7 +37,7 @@
   "navbar": {
     "about": "Quem somos",
     "events": "Agenda de Eventos",
-    "news": "Notícias",
+    "team": "Time",
     "games": "Nossos Jogos",
     "research": "Pesquisa",
     "contact": "Contato"
@@ -47,9 +47,16 @@
       "title": "Sobre Nós"
     },
     "description": {
-      "paragraph1": "O grupo é vinculado à Universidade Federal do ABC (UFABC) e atua na interseção entre educação, tecnologia e pesquisa interdisciplinar.",
-      "paragraph2": "Nosso objetivo é desenvolver soluções inovadoras que contribuam para o avanço científico e para a transformação social.",
+      "paragraph1": "Criado em 2024, o grupo EITA (Entretenimento, Educação, Interação e Tecnologias Aplicadas) é dedicado à pesquisa em computação e desenvolvimento de jogos sérios, ferramentas interativas e tecnologias educacionais.",
+      "paragraph2": "Além disso, nós também visamos a capacitação de nossos membros e da comunidade acadêmica nas áreas de computação e desenvolvimento de jogos, através de oficinas e workshops, dando continuidade às ações de extensão realizadas pelo projeto Diversão Séria, que deu origem ao nosso grupo.",
       "paragraph3": "Atuamos em projetos financiados, produção científica, orientação de alunos e colaboração com pesquisadores nacionais e internacionais."
+    },
+    "eitaBanner": {
+      "title": "EITA? Diversão Séria? Qual a diferença?",
+      "description1": "Criado em 2017, o Diversão Séria nasceu como um projeto de extensão dedicado ao desenvolvimento de jogos sérios e à capacitação de seus membros e da comunidade, através de oficinas e workshops.",
+      "description2": "Atualmente, as ações de extensão do Diversão Séria são realizadas pela equipe do EITA.",
+      "cta": "Saiba mais sobre o Diversão Séria!",
+      "alt": "Diversão Séria EITA"
     },
     "mission": {
       "title": "Missão",
@@ -114,7 +121,7 @@
     "title": "Nossos Jogos",
     "subtitle": "Jogos desenvolvidos pelo grupo como parte de projetos de pesquisa, extensão e inovação.",
     "game1": {
-      "name": "NeuroPlay",
+      "name": "Musicap",
       "description": "Jogo educacional desenvolvido para estimular funções cognitivas por meio de desafios interativos baseados em evidências científicas.",
       "button": "Jogar Agora"
     },
@@ -178,6 +185,68 @@
       "button": "Enviar"
     }
   },
+  "team": {
+      "title": "Our Team",
+      "members": {
+        "member1": {
+          "name": "André Brandão",
+          "role": "Coordenador do Projeto",
+          "description": "André Luiz Brandão é professor na UFABC, com graduação em Ciência da Computação pela UFSM e mestrado e doutorado em Ciência da Computação pela UFPR e UFF, respectivamente. Sua tese de doutorado ganhou o Primeiro Lugar no SBGames 2014. Durante seu doutorado, realizou pesquisas no DFKI e fundou a Jecripe, uma iniciativa para pessoas com necessidades especiais. Ele recebeu prêmios, incluindo o Falling Walls Lab 2015 São Paulo. Na UFABC, atuou como Vice-Chefe de Relações Internacionais e Coordenador de Tecnologias Educacionais. Seus interesses de pesquisa incluem Interação Humano-Computador, Informática na Educação, aplicadas com Jogos Digitais."
+        },
+        "member2": {
+          "name": "Karla Vittori",
+          "role": "Vice-Coordenadora do Projeto"
+        },
+        "member3": {
+          "name": "Janaina Gonçalves",
+          "role": "Vice-Coordenadora do Projeto"
+        },
+        "member4": {
+          "name": "André Kazuo",
+          "role": "Bolsista aluno Doutorado"
+        },
+        "member5": {
+          "name": "Mario Bozolão",
+          "role": "Bolsista aluno Mestrado"
+        },
+        "member6": {
+          "name": "Julia Pessoa",
+          "role": "Bolsista aluno Mestrado"
+        },
+        "member7": {
+          "name": "Iris Campanella",
+          "role": "Bolsista aluno Mestrado"
+        },
+        "member8": {
+          "name": "Paulo Gabriel",
+          "role": "Bolsista aluno Mestrado"
+        },
+        "member9": {
+          "name": "Rodrigo Martins",
+          "role": "Aluno gradução voluntário"
+        },
+        "member10": {
+          "name": "Guilherme Hugo",
+          "role": "Aluno gradução voluntário"
+        },
+        "member11": {
+          "name": "Ryan Wictky",
+          "role": "Aluno gradução voluntário"
+        },
+        "member12": {
+          "name": "Diana Brito",
+          "role": "Aluno gradução voluntário"
+        },
+        "member13": {
+          "name": "Felipe Yoshida",
+          "role": "Aluno gradução voluntário"
+        },
+        "member14": {
+          "name": "Flavia Cristina",
+          "role": "Aluno gradução voluntário"
+        }
+      }
+    },
   "footer": {
     "groupName": "EITA (Entretenimento, Educação, Interação e Tecnologias Aplicadas)",
     "institution": "Universidade Federal do ABC",

@@ -27,8 +27,8 @@ const Footer = () => {
           </h4>
 
           <div style={styles.socials}>
-            <a href="#" style={styles.link}>LinkedIn</a>
-            <a href="#" style={styles.link}>Instagram</a>
+            <a href="https://br.linkedin.com/company/diversaoseriaufabco" style={styles.link}>LinkedIn</a>
+            <a href="https://www.instagram.com/diversaoseriaufabc/" style={styles.link}>Instagram</a>
             <a href="#" style={styles.link}>ResearchGate</a>
           </div>
         </div>

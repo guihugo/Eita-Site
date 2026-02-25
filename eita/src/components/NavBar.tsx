@@ -66,11 +66,11 @@ const NavBar = () => {
             </Link>
 
             <Link
-              to="/news"
+              to="/team"
               style={styles.link}
               onClick={() => isMobile && setMenuOpen(false)}
             >
-              {t("navbar.news")}
+              {t("navbar.team")}
             </Link>
 
             <Link
