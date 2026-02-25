@@ -1,0 +1,188 @@
+{
+  "home": {
+    "hero": {
+      "title": "Research and innovation in serious games and educational technologies",
+      "subtitle": "EITA research group at UFABC dedicated to research, innovation, and serious games applied to education.",
+      "ctaPrimary": "Explore our research",
+      "ctaSecondary": "Explore our games"
+    },
+    "about": {
+      "title": "Who We Are",
+      "description": "The EITA research group (Entertainment, Education, Interaction and Applied Technologies) at UFABC is dedicated to the development of serious games, interactive tools, and educational technologies grounded in scientific research. We work in an interdisciplinary manner, integrating computing, education, and innovation to generate academic and social impact. We continue the actions of the Diversão Séria project, strengthening extension, training, and capacity-building initiatives."
+    },
+    "research": {
+      "title": "Research Areas",
+      "area1": {
+        "title": "Education and Technology",
+        "description": "Development of digital solutions applied to teaching and learning."
+      },
+      "area2": {
+        "title": "Educational Innovation",
+        "description": "Creation and validation of innovative pedagogical methodologies."
+      },
+      "area3": {
+        "title": "Social Impact",
+        "description": "Projects aimed at inclusion, accessibility, and the democratization of knowledge."
+      }
+    },
+    "projects": {
+      "title": "Projects",
+      "description": "We develop initiatives that integrate research, extension, and practical application, with institutional funding and interdisciplinary collaboration."
+    },
+    "publications": {
+      "title": "Publications",
+      "description": "Scientific output aimed at knowledge dissemination and the academic consolidation of the group."
+    }
+  },
+  "navbar": {
+    "about": "About Us",
+    "events": "Events Calendar",
+    "news": "News",
+    "games": "Our Games",
+    "research": "Research",
+    "contact": "Contact"
+  },
+  "about": {
+    "hero": {
+      "title": "About Us"
+    },
+    "description": {
+      "paragraph1": "The group is affiliated with the Federal University of ABC (UFABC) and operates at the intersection of education, technology, and interdisciplinary research.",
+      "paragraph2": "Our goal is to develop innovative solutions that contribute to scientific advancement and social transformation.",
+      "paragraph3": "We work on funded projects, scientific output, student mentorship, and collaboration with national and international researchers."
+    },
+    "mission": {
+      "title": "Mission",
+      "description": "To produce excellent scientific knowledge, promoting innovation and social impact through the integration of teaching, research, and extension."
+    },
+    "vision": {
+      "title": "Vision",
+      "description": "To be a national and international reference in interdisciplinary research applied to education and technology."
+    }
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "Scientific meetings, workshops, and academic activities organized by or with the participation of our research group.",
+    "upcoming": {
+      "title": "Upcoming Event",
+      "date": "March 12–14, 2026",
+      "name": "International Workshop on Digital Education",
+      "description": "A three-day workshop bringing together researchers in technology applied to education to discuss recent advances and foster collaborations.",
+      "location": "São Paulo, Brazil"
+    },
+    "past": {
+      "title": "Past Events",
+      "event1": {
+        "date": "October 2025",
+        "name": "Research Seminar on AI in Education",
+        "description": "Seminar focused on discussing recent advances in AI-assisted pedagogical systems."
+      },
+      "event2": {
+        "date": "May 2025",
+        "name": "Interdisciplinary Research Colloquium",
+        "description": "Collaborative event involving researchers from computing, health, and education."
+      }
+    }
+  },
+  "news": {
+    "title": "News",
+    "subtitle": "Follow the group's main activities, including event participation, organized events, and published articles.",
+    "highlight": {
+      "title": "Highlight",
+      "category": "Scientific Publication",
+      "name": "Article published in a high-impact international journal",
+      "date": "February 2026",
+      "description": "Our group published a new article addressing recent advances in technology applied to education, consolidating research results developed over the past two years."
+    },
+    "recent": {
+      "title": "Recent News",
+      "item1": {
+        "category": "Event Participation",
+        "name": "Presentation at the Brazilian Congress on Informatics in Education",
+        "date": "January 2026",
+        "description": "Group members presented partial research results in a thematic session on artificial intelligence in education."
+      },
+      "item2": {
+        "category": "Organized Event",
+        "name": "Interdisciplinary Research Group Workshop",
+        "date": "November 2025",
+        "description": "An internal workshop bringing together researchers from computing, education, and health to discuss ongoing projects."
+      }
+    }
+  },
+  "games": {
+    "title": "Our Games",
+    "subtitle": "Games developed by the group as part of research, extension, and innovation projects.",
+    "game1": {
+      "name": "NeuroPlay",
+      "description": "An educational game developed to stimulate cognitive functions through interactive, evidence-based challenges.",
+      "button": "Play Now"
+    },
+    "game2": {
+      "name": "EcoSim",
+      "description": "An interactive simulator that explores decision-making in complex environmental scenarios, integrating learning and experimentation.",
+      "button": "Learn More"
+    }
+  },
+  "research": {
+    "title": "Research",
+    "subtitle": "We develop interdisciplinary research integrating technology, education, and applied science, seeking academic and social impact.",
+    "areas": {
+      "title": "Research Areas",
+      "area1": {
+        "title": "Educational Technologies",
+        "description": "Investigation and development of digital tools aimed at supporting the teaching and learning process."
+      },
+      "area2": {
+        "title": "Applied Artificial Intelligence",
+        "description": "Study of computational models to support decision-making and the personalization of educational experiences."
+      },
+      "area3": {
+        "title": "Games and Simulations",
+        "description": "Development of games and simulated environments as research and intervention instruments."
+      }
+    },
+    "projects": {
+      "title": "Ongoing Projects",
+      "project1": {
+        "title": "Adaptive Learning Platform",
+        "description": "Project focused on creating a system capable of adapting pedagogical content based on user performance."
+      },
+      "project2": {
+        "title": "Gamification in Clinical Contexts",
+        "description": "Investigation into the use of digital games as a complementary tool in hospital and therapeutic settings."
+      }
+    },
+    "initiatives": {
+      "title": "Initiatives and Partnerships",
+      "description": "The group maintains collaborations with national and international institutions, promoting scientific exchange, researcher training, and the development of joint projects."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us for collaborations, partnerships, or more information about our research and projects.",
+    "info": {
+      "title": "Institutional Information",
+      "emailLabel": "Email",
+      "email": "contato@grupodepesquisa.br",
+      "addressLabel": "Address",
+      "address": "UFABC Bloco L – R. Abolição, S/N – Vila Sao Pedro, Santo André – SP, 09210-180",
+      "institutionLabel": "UFABC",
+      "institution": "Federal University of ABC"
+    },
+    "form": {
+      "title": "Send a message",
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message",
+      "button": "Send"
+    }
+  },
+  "footer": {
+    "groupName": "EITA(Entertainment, Education, Interaction and Applied Technologies)",
+    "institution": "Federal University of ABC",
+    "email": "contato@grupodepesquisa.br",
+    "socialTitle": "Social Media",
+    "copyright": "© 2026 Research Group. All rights reserved."
+  }
+}

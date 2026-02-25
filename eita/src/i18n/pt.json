@@ -1,0 +1,188 @@
+{
+  "home": {
+    "hero": {
+      "title": "Pesquisa e inovação em jogos sérios e tecnologias educacionais",
+      "subtitle": "Grupo de pesquisa EITA da UFABC dedicado à pesquisa, inovação e jogos sérios aplicados à educação.",
+      "ctaPrimary": "Conheça nossas pesquisas",
+      "ctaSecondary": "Explore nossos jogos"
+    },
+    "about": {
+      "title": "Quem Somos",
+      "description": "O grupo de pesquisa EITA (Entretenimento, Educação, Interação e Tecnologias Aplicadas) da UFABC é dedicado ao desenvolvimento de jogos sérios, ferramentas interativas e tecnologias educacionais fundamentadas em pesquisa científica. Atuamos de forma interdisciplinar, integrando computação, educação e inovação para gerar impacto acadêmico e social. Damos continuidade às ações do projeto Diversão Séria, fortalecendo iniciativas de extensão, formação e capacitação."
+    },
+    "research": {
+      "title": "Linhas de Pesquisa",
+      "area1": {
+        "title": "Educação e Tecnologia",
+        "description": "Desenvolvimento de soluções digitais aplicadas ao ensino e aprendizagem."
+      },
+      "area2": {
+        "title": "Inovação Educacional",
+        "description": "Criação e validação de metodologias pedagógicas inovadoras."
+      },
+      "area3": {
+        "title": "Impacto Social",
+        "description": "Projetos voltados à inclusão, acessibilidade e democratização do conhecimento."
+      }
+    },
+    "projects": {
+      "title": "Projetos",
+      "description": "Desenvolvemos iniciativas que integram pesquisa, extensão e aplicação prática, com financiamento institucional e colaboração interdisciplinar."
+    },
+    "publications": {
+      "title": "Publicações",
+      "description": "Produção científica voltada à disseminação do conhecimento e consolidação acadêmica do grupo."
+    }
+  },
+  "navbar": {
+    "about": "Quem somos",
+    "events": "Agenda de Eventos",
+    "news": "Notícias",
+    "games": "Nossos Jogos",
+    "research": "Pesquisa",
+    "contact": "Contato"
+  },
+  "about": {
+    "hero": {
+      "title": "Sobre Nós"
+    },
+    "description": {
+      "paragraph1": "O grupo é vinculado à Universidade Federal do ABC (UFABC) e atua na interseção entre educação, tecnologia e pesquisa interdisciplinar.",
+      "paragraph2": "Nosso objetivo é desenvolver soluções inovadoras que contribuam para o avanço científico e para a transformação social.",
+      "paragraph3": "Atuamos em projetos financiados, produção científica, orientação de alunos e colaboração com pesquisadores nacionais e internacionais."
+    },
+    "mission": {
+      "title": "Missão",
+      "description": "Produzir conhecimento científico de excelência, promovendo inovação e impacto social por meio da integração entre ensino, pesquisa e extensão."
+    },
+    "vision": {
+      "title": "Visão",
+      "description": "Ser referência nacional e internacional na área de pesquisa interdisciplinar aplicada à educação e tecnologia."
+    }
+  },
+  "events": {
+    "title": "Eventos",
+    "subtitle": "Encontros científicos, workshops e atividades acadêmicas organizadas ou com participação do nosso grupo de pesquisa.",
+    "upcoming": {
+      "title": "Próximo Evento",
+      "date": "12–14 de março de 2026",
+      "name": "Workshop Internacional sobre Educação Digital",
+      "description": "Workshop de três dias reunindo pesquisadores da área de tecnologia aplicada à educação para discutir avanços recentes e promover colaborações.",
+      "location": "São Paulo, Brasil"
+    },
+    "past": {
+      "title": "Eventos Anteriores",
+      "event1": {
+        "date": "Outubro de 2025",
+        "name": "Seminário de Pesquisa em IA na Educação",
+        "description": "Seminário voltado à discussão de avanços recentes em sistemas pedagógicos assistidos por inteligência artificial."
+      },
+      "event2": {
+        "date": "Maio de 2025",
+        "name": "Colóquio Interdisciplinar de Pesquisa",
+        "description": "Evento colaborativo envolvendo pesquisadores das áreas de computação, saúde e educação."
+      }
+    }
+  },
+  "news": {
+    "title": "Notícias",
+    "subtitle": "Acompanhe as principais atividades do grupo, incluindo participações em eventos, eventos organizados e artigos publicados.",
+    "highlight": {
+      "title": "Destaque",
+      "category": "Publicação Científica",
+      "name": "Artigo publicado em periódico internacional de alto impacto",
+      "date": "Fevereiro de 2026",
+      "description": "Nosso grupo publicou um novo artigo abordando avanços recentes na área de tecnologia aplicada à educação, consolidando resultados de pesquisa desenvolvidos nos últimos dois anos."
+    },
+    "recent": {
+      "title": "Notícias Recentes",
+      "item1": {
+        "category": "Participação em Evento",
+        "name": "Apresentação no Congresso Brasileiro de Informática na Educação",
+        "date": "Janeiro de 2026",
+        "description": "Integrantes do grupo apresentaram resultados parciais de pesquisa em sessão temática sobre inteligência artificial na educação."
+      },
+      "item2": {
+        "category": "Evento Organizado",
+        "name": "Workshop Interdisciplinar do Grupo de Pesquisa",
+        "date": "Novembro de 2025",
+        "description": "Realização de workshop interno reunindo pesquisadores das áreas de computação, educação e saúde para discussão de projetos em andamento."
+      }
+    }
+  },
+  "games": {
+    "title": "Nossos Jogos",
+    "subtitle": "Jogos desenvolvidos pelo grupo como parte de projetos de pesquisa, extensão e inovação.",
+    "game1": {
+      "name": "NeuroPlay",
+      "description": "Jogo educacional desenvolvido para estimular funções cognitivas por meio de desafios interativos baseados em evidências científicas.",
+      "button": "Jogar Agora"
+    },
+    "game2": {
+      "name": "EcoSim",
+      "description": "Simulador interativo que explora tomada de decisão em cenários ambientais complexos, integrando aprendizado e experimentação.",
+      "button": "Saiba Mais"
+    }
+  },
+  "research": {
+    "title": "Pesquisa",
+    "subtitle": "Desenvolvemos pesquisas interdisciplinares que integram tecnologia, educação e ciência aplicada, buscando impacto acadêmico e social.",
+    "areas": {
+      "title": "Áreas de Pesquisa",
+      "area1": {
+        "title": "Tecnologias Educacionais",
+        "description": "Investigação e desenvolvimento de ferramentas digitais voltadas ao apoio do processo de ensino-apendizagem."
+      },
+      "area2": {
+        "title": "Inteligência Artificial Aplicada",
+        "description": "Estudo de modelos computacionais para apoio à tomada de decisão e personalização de experiências educacionais."
+      },
+      "area3": {
+        "title": "Jogos e Simulações",
+        "description": "Desenvolvimento de jogos e ambientes simulados como instrumentos de pesquisa e intervenção."
+      }
+    },
+    "projects": {
+      "title": "Projetos em Andamento",
+      "project1": {
+        "title": "Plataforma Adaptativa de Aprendizagem",
+        "description": "Projeto voltado à criação de um sistema capaz de adaptar conteúdos pedagógicos com base no desempenho do usuário."
+      },
+      "project2": {
+        "title": "Gamificação em Contextos Clínicos",
+        "description": "Investigação sobre o uso de jogos digitais como ferramenta complementar em ambientes hospitalares e terapêuticos."
+      }
+    },
+    "initiatives": {
+      "title": "Iniciativas e Parcerias",
+      "description": "O grupo mantém colaborações com instituições nacionais e internacionais, promovendo intercâmbio científico, formação de pesquisadores e desenvolvimento de projetos conjuntos."
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Entre em contato conosco para colaborações, parcerias ou mais informações sobre nossas pesquisas e projetos.",
+    "info": {
+      "title": "Informações Institucionais",
+      "emailLabel": "E-mail",
+      "email": "contato@grupodepesquisa.br",
+      "addressLabel": "Endereço",
+      "address": "UFABC Bloco L – R. Abolição, S/N – Vila Sao Pedro, Santo André – SP, 09210-180",
+      "institutionLabel": "UFABC",
+      "institution": "Universidade Federal do ABC"
+    },
+    "form": {
+      "title": "Envie uma mensagem",
+      "name": "Seu nome",
+      "email": "Seu e-mail",
+      "message": "Sua mensagem",
+      "button": "Enviar"
+    }
+  },
+  "footer": {
+    "groupName": "EITA (Entretenimento, Educação, Interação e Tecnologias Aplicadas)",
+    "institution": "Universidade Federal do ABC",
+    "email": "contato@grupodepesquisa.br",
+    "socialTitle": "Redes Sociais",
+    "copyright": "© 2026 Grupo de Pesquisa. Todos os direitos reservados."
+  }
+}
