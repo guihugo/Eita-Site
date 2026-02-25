@@ -1,21 +1,21 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import { colors } from "../theme/colors";
-import foto_andre from "../assets/members/André Luiz Brandão.jpg";
-import foto_karla from "../assets/members/Karla Vittori.jpg";
-import foto_janaina from "../assets/members/Janaina Gonçalves.jpg";
-import foto_kazuo from "../assets/members/André Kazuo.jpg";
-import foto_mario from "../assets/members/Mário.png";
-import foto_julia from "../assets/members/Júlia Pessoa.jpg";
-//import foto_iris from "../assets/members/Íris.jpg";
+import foto_andre from "../assets/members/andre_brandao.jpg";
+import foto_karla from "../assets/members/karla_vittori.jpg";
+import foto_janaina from "../assets/members/janaina_goncalves.jpg";
+import foto_kazuo from "../assets/members/andre_kazuo.jpg";
+import foto_mario from "../assets/members/mario.png";
+import foto_julia from "../assets/members/julia_pessoa.jpg";
+// import foto_iris from "../assets/members/iris.jpg";
 import empty from "../assets/members/empty.png";
-import foto_paulo from "../assets/members/Paulo Gabriel Massa.jpg";
-import foto_rodrigo from "../assets/members/Rodrigo Souza.jpg";
-import foto_guilherme from "../assets/members/Guilherme Hugo.jpeg";
-import foto_ryan from "../assets/members/Ryan Sallatti.jpeg";
-import foto_diana from "../assets/members/Diana Brito.jpg";
-import foto_felipe from "../assets/members/Felipe Yoshida Ferreira.jpg";
-import foto_flavia from "../assets/members/Flavia cristina.jpg";
+import foto_paulo from "../assets/members/paulo_gabriel.jpg";
+import foto_rodrigo from "../assets/members/rodrigo_souza.jpg";
+import foto_guilherme from "../assets/members/guilherme_hugo.jpeg";
+import foto_ryan from "../assets/members/ryan_sallatti.jpeg";
+import foto_diana from "../assets/members/diana_brito.jpg";
+import foto_felipe from "../assets/members/felipe_yoshida.jpg";
+import foto_flavia from "../assets/members/flavia_cristina.jpg";
 
 const teamMembers = [
     {
