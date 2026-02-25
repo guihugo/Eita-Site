@@ -8,6 +8,7 @@ import foto_kazuo from "../assets/members/André Kazuo.jpg";
 import foto_mario from "../assets/members/Mário.png";
 import foto_julia from "../assets/members/Júlia Pessoa.jpg";
 //import foto_iris from "../assets/members/Íris.jpg";
+import empty from "../assets/members/empty.png";
 import foto_paulo from "../assets/members/Paulo Gabriel Massa.jpg";
 import foto_rodrigo from "../assets/members/Rodrigo Souza.jpg";
 import foto_guilherme from "../assets/members/Guilherme Hugo.jpeg";
@@ -53,7 +54,7 @@ const teamMembers = [
     {
         nameKey: "team.members.member7.name",
         roleKey: "team.members.member7.role",
-        photoUrl: "https://avatars.dicebear.com/api/avataaars/member7.svg",
+        photoUrl: empty,
     }, {
         nameKey: "team.members.member8.name",
         roleKey: "team.members.member8.role",
@@ -83,7 +84,6 @@ const teamMembers = [
         roleKey: "team.members.member14.role",
         photoUrl: foto_flavia,
     },
-    // Adicione os outros membros até 15 (ou mais) replicando o padrão
 ];
 
 const TeamSection = () => {
