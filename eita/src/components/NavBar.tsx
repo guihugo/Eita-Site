@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import logo from "../assets/react.svg";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
+import { colors } from "../theme/colors";
 
 const NavBar = () => {
   const { t, i18n } = useTranslation();
@@ -129,14 +130,6 @@ const NavBar = () => {
   );
 };
 
-const colors = {
-  primary: "#07F9A2",
-  secondary: "#09C184",
-  medium: "#0A8967",
-  dark: "#0C5149",
-  darkest: "#0D192B",
-  white: "#FFFFFF",
-};
 
 const styles: { [key: string]: React.CSSProperties } = {
   header: {
@@ -222,7 +215,7 @@ const styles: { [key: string]: React.CSSProperties } = {
   dropdown: {
     position: "absolute",
     top: "45px",
-    right: 0,
+    left: 0,
     backgroundColor: colors.white,
     border: `1px solid ${colors.medium}`,
     borderRadius: "6px",
