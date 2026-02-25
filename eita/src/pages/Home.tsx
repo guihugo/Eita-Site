@@ -2,6 +2,7 @@ import { useTranslation } from "react-i18next";
 import group from "../assets/group_pic.jpeg";
 import React from "react";
 import { colors } from "../theme/colors";
+import { Link } from "react-router";
 
 const Home = () => {
   const { t } = useTranslation();
@@ -21,12 +22,12 @@ const Home = () => {
             {t("home.hero.subtitle")}
           </p>
           <div style={styles.heroButtons}>
-            <a href="/research" style={styles.primaryButton}>
+            <Link to="/research" style={styles.primaryButton}>
               {t("home.hero.ctaPrimary")}
-            </a>
-            <a href="/games" style={styles.secondaryButton}>
+            </Link>
+            <Link to="/games" style={styles.secondaryButton}>
               {t("home.hero.ctaSecondary")}
-            </a>
+            </Link>
           </div>
         </div>
       </section>
